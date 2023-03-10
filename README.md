@@ -1,4 +1,4 @@
-# Trabajo Practico Nº2 - Practicas con Javascript( Bucles - Ejercicios con Math - Ejercicios con String) 📚 
+# Trabajo Practico Nº2 - Practicas con Javascript ( Bucles - Ejercicios con Math - Ejercicios con String) 📚 
 
 ## Own project . Rolling Code's homework to learn about Javascript .
 
